@@ -1,6 +1,6 @@
 ### Hi there, I'm Ridho 👋
 
-[![Website](https://img.shields.io/website?label=Ridhonusa.com&style=for-the-badge&url=https%3A%2F%2Fridhonusa.blogpost.com)](https://ridhonusa.blogspot.com)
+[![Website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ridhonusa.blogspot.com)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2Fridho.top)](https://www.instagram.com/ridho.top)
 
 <!--
