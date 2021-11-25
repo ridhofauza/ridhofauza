@@ -35,8 +35,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuduiso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **kuduiso/kuduiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
