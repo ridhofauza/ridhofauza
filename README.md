@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ridhonusa.blogspot.com)
 [![Instagram_Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ridho.top)
 [![Youtube_Subscribe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyRwMkqfX_xDcQtWjKY04Mw)
-[![Website_Game](https://img.shields.io/website?label=Nengomahae.tk&style=for-the-badge)](http://nengomahae.tk/)
+[![Website_Game](https://img.shields.io/website?label=Nengomahae.tk&style=for-the-badge&url=http%3A%2F%2Fnengomahae.tk)](http://nengomahae.tk/)
 
 
 <!--
