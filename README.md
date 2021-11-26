@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahulfr/)
 [![Website_Game](https://img.shields.io/website?label=Nengomahae.tk&style=for-the-badge&url=http%3A%2F%2Fnengomahae.tk)](http://nengomahae.tk/)
 [![Website_Portofolio](https://img.shields.io/website?label=Web-Portofolio&style=for-the-badge&url=https%3A%2F%2Ffauza.nasihosting.com)](http://fauza.nasihosting.com/)
+![Email](https://img.shields.io/badge/email-ridhofauza799@gmail.com-green?logo=appveyor&style=flat-square&logo=appveyor)
 
 ## I'm a Student
 - 🌱 I’m currently learning web and android programming
