@@ -1,11 +1,9 @@
 ### Hi there, I'm Ridho 👋
 
 [![Website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ridhonusa.blogspot.com)
-[![Instagram_Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ridho.top)
 [![Youtube_Subscribe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyRwMkqfX_xDcQtWjKY04Mw)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahulfr/)
 [![Website_Portofolio](https://img.shields.io/website?label=Web-Portofolio&style=for-the-badge&url=https%3A%2F%2Ffauza.nasihosting.com)](http://fauza.nasihosting.com/)
-![Email](https://img.shields.io/badge/email-ridhofauza799@gmail.com-green?logo=appveyor&style=flat-square&logo=appveyor&color=informational)
+![Email](https://img.shields.io/badge/email-fauzaridho77@gmail.com-green?logo=appveyor&style=flat-square&logo=appveyor&color=informational)
 
 ## I'm a Student
 - 🌱 I’m currently learning web and android programming
