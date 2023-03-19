@@ -5,7 +5,7 @@
 [![Website_Portofolio](https://img.shields.io/website?label=Web-Portofolio&style=for-the-badge&url=https%3A%2F%2Ffauza.nasihosting.com)](http://fauza.nasihosting.com/)
 ![Email](https://img.shields.io/badge/email-fauzaridho77@gmail.com-green?logo=appveyor&style=flat-square&logo=appveyor&color=informational)
 
-## I'm a Student
+## I'm a Software Engineer
 - 🌱 I’m currently learning web and android programming
 
 ### Languages and Tools:
