@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ridhonusa.blogspot.com)
 [![Youtube_Subscribe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyRwMkqfX_xDcQtWjKY04Mw)
-[![Website_Portofolio](https://img.shields.io/website?label=Web-Portofolio&style=for-the-badge&url=https%3A%2F%2Ffauza.nasihosting.com)](http://fauza.nasihosting.com/)
 ![Email](https://img.shields.io/badge/email-fauzaridho77@gmail.com-green?logo=appveyor&style=flat-square&logo=appveyor&color=informational)
 
 ## I'm a Software Engineer
